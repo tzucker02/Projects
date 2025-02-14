@@ -14,7 +14,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 
 | File Link |   Completion Date   | Tools | File Description |
 |---|------------------|---|---|
-| [EndNote Technical SOP Document](https://github.com/tzucker02/Technical-Writing/blob/main/Publication%20selection%20quantification%20method.pdf) | 2023 - 01   | Word, EndNote, Excel | Wrote technical document describing the various aspects, problems and solutions when using EndNotento to create references in a grant application| 
+| <img src="https://downloadly.ir/wp-content/uploads/2021/03/EndNote-.png" height = "25" width = "25"></a>  [EndNote Technical SOP Document](https://github.com/tzucker02/Technical-Writing/blob/main/Publication%20selection%20quantification%20method.pdf) | 2023 - 01   | Word, EndNote, Excel | Wrote technical document describing the various aspects, problems and solutions when using EndNotento to create references in a grant application| 
 | [Computer course proposal](https://github.com/tzucker02/Technical-Writing/blob/main/Computer%20Course%20Proposal.pdf) | 2022-05 | Word |
 |   | 2023 - 02   | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
 
