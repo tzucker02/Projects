@@ -1,4 +1,6 @@
-# Projects
+# Hey All! Welcome to my Portfolio of Projects.  
+Here, I have tried to list my different projects, the files I have tried to make available, and various miscellaneous items.
+
 ## Table of Contents
 - [ Toms Technical Writing](#toms-technical-writing)
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
