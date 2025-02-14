@@ -39,12 +39,12 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [Annotations from MapPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotations%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
 | [Annotating Plots from MatPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotate%20plots%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
 
-# <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "30" height = "30"> PowerBI </a>
+#  PowerBI
 | Dashboard Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
-| []() | 2025-02 | PDF |  |
+| []() | 2025-02 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> |  |
 
-# <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="30" height="30"> Tableau </a>
+# Tableau <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="30" height="30"></a>
 | Dashboard Link | Completion Date | Tools | Project Description |
 |---|---| ----------- | --------------------------- |
 | [Center for Jewish History Dashboard ver a](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/CJHv2_3/CJHv1_9) | 2024-12 | Tableau Desktop, Tableau Public | Dashboard of visitor information for CJH |
@@ -53,7 +53,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [AirBnB searchable listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/AirBnBlistingNYC/AirBnBlistingsandMap) | 2024-05 | Tableau Desktop, Tableau Public | Dashboard displaying NYC searchable lists |
 | [Renovations listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/Renovations_17175092557320/Main) | 2024-06 | Tableau Desktop, Tableau Public | Cost of renovations dashboard |
 
-# <img src="https://fantasyshed.com/wp-content/uploads/2021/01/Adobe-PDF-Document-icon.png" widht = "30" height = "30" >Python Cheatsheets</a>
+# Python Cheatsheets <img src="https://fantasyshed.com/wp-content/uploads/2021/01/Adobe-PDF-Document-icon.png" widht = "30" height = "30" ></a>
 | File Link | Upload Date | Type | Description |
 |---|---|---|---|
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQHx9pPj6jyT344eN6SMiE1TPh3uzWKNE60twCoYMZbiNA1VC6E0LlkyI5R-ic_eku_Fc&usqp=CAU" height="15" width = "15"></a> [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
