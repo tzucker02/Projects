@@ -44,14 +44,14 @@ Here, I have tried to list my different projects, the files I have tried to make
 |---|---|---|---|
 | []() | 2025-02 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> |  |
 
-# Tableau <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="30" height="30"></a>
+# Tableau
 | Dashboard Link | Completion Date | Tools | Project Description |
 |---|---| ----------- | --------------------------- |
-| [Center for Jewish History Dashboard ver a](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/CJHv2_3/CJHv1_9) | 2024-12 | Tableau Desktop, Tableau Public | Dashboard of visitor information for CJH |
-| [Center For Jewish History Dashboard ver b](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/CJHv1_8/CJHv1_3) | 2024-11 | Tableau Desktop, Tableau Public | Dashboard of visitor information for CJH |
-| [Larchmont Temple Brotherhood Breakfasts dashboard ver a](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/LTBBreakfasts/Dashboard2) | 2024-11 | Tableau Desktop, Tableau Public | Dashboard of membership |
-| [AirBnB searchable listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/AirBnBlistingNYC/AirBnBlistingsandMap) | 2024-05 | Tableau Desktop, Tableau Public | Dashboard displaying NYC searchable lists |
-| [Renovations listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/Renovations_17175092557320/Main) | 2024-06 | Tableau Desktop, Tableau Public | Cost of renovations dashboard |
+| [Center for Jewish History Dashboard ver a](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/CJHv2_3/CJHv1_9) | 2024-12 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Dashboard of visitor information for CJH |
+| [Center For Jewish History Dashboard ver b](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/CJHv1_8/CJHv1_3) | 2024-11 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Dashboard of visitor information for CJH |
+| [Larchmont Temple Brotherhood Breakfasts dashboard ver a](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/LTBBreakfasts/Dashboard2) | 2024-11 |<img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Dashboard of membership |
+| [AirBnB searchable listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/AirBnBlistingNYC/AirBnBlistingsandMap) | 2024-05 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Dashboard displaying NYC searchable lists |
+| [Renovations listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/Renovations_17175092557320/Main) | 2024-06 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Cost of renovations dashboard |
 
 # Python Cheatsheets <img src="https://fantasyshed.com/wp-content/uploads/2021/01/Adobe-PDF-Document-icon.png" widht = "30" height = "30" ></a>
 | File Link | Upload Date | Type | Description |
