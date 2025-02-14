@@ -20,7 +20,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 |   | 2023 - 02   | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
 
 # Full text of OMDS Readings
-[Go to Top](#Top)
+[<img src="https://cdn-icons-png.freepik.com/256/4495/4495584.png?semt=ais_hybrid" height = "20" width = "20"></a>](#Top)
 | File/Book Link | Upload Date | Type | Description |
 |---|---|---|---|
 | [Copyrighted texts linked in the readme.md file](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/readme.md) | 2025-02 | Readme.md file | readme file for directory of full texts. Contains copyright information |
@@ -33,7 +33,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [Patterns, Predictions, and Actions](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/patterns%20predictions%20and%20actions.pdf) |2025-02 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
 
 # Other Readings
-[Go to Top](#Top)
+[<img src="https://cdn-icons-png.freepik.com/256/4495/4495584.png?semt=ais_hybrid" height = "20" width = "20"></a>](#Top)
 | File Link | Upload Date | Type | File Description |
 |---|---|---|---|
 | [MatPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotate%20plots%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 |  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |   |
