@@ -10,12 +10,12 @@ Here, I have tried to list my different projects, the files I have tried to make
 - [ Coding Homeworks](#coding-homeworks)
 
 
-# <img src="https://cdn.iconscout.com/icon/free/png-512/free-technical-icon-download-in-svg-png-gif-file-formats--support-seo-icons-pack-web-453357.png?f=webp&w=512" width = "30" height = "30"> Tom's Technical Writing</a>
+# Tom's Technical Writing
 
 | File Link |   Completion Date   | Tools | File Description |
 |---|------------------|---|---|
 | <img src="https://downloadly.ir/wp-content/uploads/2021/03/EndNote-.png" height = "25" width = "25"></a>  [EndNote Technical SOP Document](https://github.com/tzucker02/Technical-Writing/blob/main/Publication%20selection%20quantification%20method.pdf) | 2023 - 01   | Word, EndNote, Excel | Wrote technical document describing the various aspects, problems and solutions when using EndNotento to create references in a grant application| 
-| [Computer course proposal](https://github.com/tzucker02/Technical-Writing/blob/main/Computer%20Course%20Proposal.pdf) | 2022-05 | Word |
+| <img src="https://cdn.iconscout.com/icon/free/png-512/free-technical-icon-download-in-svg-png-gif-file-formats--support-seo-icons-pack-web-453357.png?f=webp&w=512" width = "25" height = "25"> </a>[Computer course proposal](https://github.com/tzucker02/Technical-Writing/blob/main/Computer%20Course%20Proposal.pdf) | 2022-05 | Word |
 |   | 2023 - 02   | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
 
 # <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" widht = "30" height = "30" >Full text of OMDS Readings </a>
