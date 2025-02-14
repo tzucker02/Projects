@@ -1,4 +1,4 @@
-# 🗺 Hey All! Welcome to my Portfolio of Projects.  
+# <img src="https://cdn.iconscout.com/icon/free/png-256/free-notebook-icon-download-in-svg-png-gif-file-formats--diary-note-pencil-shopping-and-retail-pack-e-commerce-icons-910315.png" widht = "30" height = "50"> Hey All! Welcome to my Portfolio of Projects.  </a>
 Here, I have tried to list my different projects, the files I have tried to make available, and various miscellaneous items.
 
 ## Table of Contents
@@ -18,7 +18,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [Computer course proposal](https://github.com/tzucker02/Technical-Writing/blob/main/Computer%20Course%20Proposal.pdf) | 2022-05 | Word |
 |   | 2023 - 02   | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
 
-# Full text of OMDS Readings
+# <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" widht = "30" height = "30" >Full text of OMDS Readings </a>
 | File/Book Link | Upload Date | Type | Description |
 |---|---|---|---|
 | [Copyrighted texts linked in the readme.md file](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/readme.md) | 2025-02 | Readme.md file | readme file for directory of full texts. Contains copyright information |
@@ -30,7 +30,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [Mathematics and Machine Learning](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/mathematics%20for%20machine%20learning.pdf) | 2025-02 | PDF |   |
 | [Patterns, Predictions, and Actions](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Full%20Texts/patterns%20predictions%20and%20actions.pdf) |2025-02 | PDF |  |
 
-# Other Readings
+# <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" widht = "30" height = "30" >Other Readings</a>
 | File Link | Upload Date | Type | File Description |
 |---|---|---|---|
 | [MatPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotate%20plots%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 | PDF |   |
@@ -53,7 +53,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [AirBnB searchable listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/AirBnBlistingNYC/AirBnBlistingsandMap) | 2024-05 | Tableau Desktop, Tableau Public | Dashboard displaying NYC searchable lists |
 | [Renovations listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/Renovations_17175092557320/Main) | 2024-06 | Tableau Desktop, Tableau Public | Cost of renovations dashboard |
 
-# Python Cheatsheets
+# <img src="https://fantasyshed.com/wp-content/uploads/2021/01/Adobe-PDF-Document-icon.png" widht = "30" height = "30" >Python Cheatsheets</a>
 | File Link | Upload Date | Type | Description |
 |---|---|---|---|
 | [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
