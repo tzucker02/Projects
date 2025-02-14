@@ -10,7 +10,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 - [ Coding Homeworks](#coding-homeworks)
 
 
-# Tom's Technical Writing
+# <img src="https://cdn.iconscout.com/icon/free/png-512/free-technical-icon-download-in-svg-png-gif-file-formats--support-seo-icons-pack-web-453357.png?f=webp&w=512" width = "30" height = "30"> Tom's Technical Writing</a>
 
 | File Link |   Completion Date   | Tools | File Description |
 |---|------------------|---|---|
@@ -39,12 +39,12 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [Annotations from MapPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotations%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 | PDF |  |
 | [Annotating Plots from MatPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotate%20plots%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 | PDF |  |
 
-# PowerBI
+# <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "30" height = "30"> PowerBI </a>
 | Dashboard Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
 | []() | 2025-02 | PDF |  |
 
-# Tableau
+# <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="30" height="30"> Tableau </a>
 | Dashboard Link | Completion Date | Tools | Project Description |
 |---|---| ----------- | --------------------------- |
 | [Center for Jewish History Dashboard ver a](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/CJHv2_3/CJHv1_9) | 2024-12 | Tableau Desktop, Tableau Public | Dashboard of visitor information for CJH |
