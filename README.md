@@ -56,7 +56,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 # <img src="https://fantasyshed.com/wp-content/uploads/2021/01/Adobe-PDF-Document-icon.png" widht = "30" height = "30" >Python Cheatsheets</a>
 | File Link | Upload Date | Type | Description |
 |---|---|---|---|
-| [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQHx9pPj6jyT344eN6SMiE1TPh3uzWKNE60twCoYMZbiNA1VC6E0LlkyI5R-ic_eku_Fc&usqp=CAU" height="15" width = "15"></a> [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
 | [Importing Data Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Importing_Data_Python_Cheat_Sheet.pdf) | 2025-02 |PDF |  |
 | [Numpy Cheeatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Numpy_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
 | [Numpy Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Numpy_Python_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
