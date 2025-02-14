@@ -1,4 +1,4 @@
-# Hey All! Welcome to my Portfolio of Projects.  
+# 🗺 Hey All! Welcome to my Portfolio of Projects.  
 Here, I have tried to list my different projects, the files I have tried to make available, and various miscellaneous items.
 
 ## Table of Contents
