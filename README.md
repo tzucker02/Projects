@@ -2,6 +2,8 @@
 # <img src="https://cdn.iconscout.com/icon/free/png-256/free-notebook-icon-download-in-svg-png-gif-file-formats--diary-note-pencil-shopping-and-retail-pack-e-commerce-icons-910315.png" widht = "30" height = "50"> Hey All! Welcome to my Portfolio of Projects.  </a>
 Here, I have tried to list my different projects, the files I have tried to make available, and various miscellaneous items.
 
+## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
+
 ## Table of Contents
 - [ Toms Technical Writing](#toms-technical-writing)
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
