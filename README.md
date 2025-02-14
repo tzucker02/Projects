@@ -56,10 +56,10 @@ Here, I have tried to list my different projects, the files I have tried to make
 # Python Cheatsheets
 | File Link | Upload Date | Type | Description |
 |---|---|---|---|
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQHx9pPj6jyT344eN6SMiE1TPh3uzWKNE60twCoYMZbiNA1VC6E0LlkyI5R-ic_eku_Fc&usqp=CAU" height="15" width = "15"></a> [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
-| [Importing Data Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Importing_Data_Python_Cheat_Sheet.pdf) | 2025-02 |PDF |  |
-| [Numpy Cheeatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Numpy_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
-| [Numpy Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Numpy_Python_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQHx9pPj6jyT344eN6SMiE1TPh3uzWKNE60twCoYMZbiNA1VC6E0LlkyI5R-ic_eku_Fc&usqp=CAU" height="20" width = "20"></a> [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
+| <img src="https://cdn-icons-png.freepik.com/256/8768/8768141.png?semt=ais_hybrid" height = "20" width = "20"></a> [Importing Data Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Importing_Data_Python_Cheat_Sheet.pdf) | 2025-02 |PDF |  |
+| <img src="https://pic.vsixhub.com/69/ec/litchi.numpy-pilot-logo.webp" height = "20" width="20"></a> [Numpy Cheeatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Numpy_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
+| <img src="https://pic.vsixhub.com/69/ec/litchi.numpy-pilot-logo.webp" height = "20" width="20"></a> [Numpy Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Numpy_Python_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
 | [Pandas Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Pandas_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
 | [Python Basics Updated Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Python_Basics_Cheat_Sheet-updated.pdf) | 2025-02 | PDF |  |
 | [Python MatPlotLib Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Python_Matplotlib_Cheat_Sheet.pdf) | 2025-02 | PDF |  |
