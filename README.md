@@ -53,7 +53,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [AirBnB searchable listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/AirBnBlistingNYC/AirBnBlistingsandMap) | 2024-05 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Dashboard displaying NYC searchable lists |
 | [Renovations listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/Renovations_17175092557320/Main) | 2024-06 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Cost of renovations dashboard |
 
-# Python Cheatsheets <img src="https://fantasyshed.com/wp-content/uploads/2021/01/Adobe-PDF-Document-icon.png" widht = "30" height = "30" ></a>
+# Python Cheatsheets
 | File Link | Upload Date | Type | Description |
 |---|---|---|---|
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQHx9pPj6jyT344eN6SMiE1TPh3uzWKNE60twCoYMZbiNA1VC6E0LlkyI5R-ic_eku_Fc&usqp=CAU" height="15" width = "15"></a> [Beginners Python Cheatsheet](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Beginners-Python-Cheat-Sheet.pdf) | 2025-02 | PDF |  |
