@@ -10,7 +10,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 - [ Power BI](#powerbi)
 - [ Tableau](#tableau)
 - [ Python Cheatsheets](#python-cheatsheets)
-- [ Coding Homeworks](#coding-homeworks)
+<!-- - [ Coding Homeworks](#coding-homeworks) -->
 
 
 # Tom's Technical Writing
@@ -77,7 +77,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 | <img src="https://cdn.creazilla.com/icons/3270584/scikit-learn-icon-size_256.png" height="20" width="20"></a>  [Scikit Learn Cheatsheet - Python](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/Scikit_Learn_Cheat_Sheet_Python.pdf) | 2025-02 | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQHx9pPj6jyT344eN6SMiE1TPh3uzWKNE60twCoYMZbiNA1VC6E0LlkyI5R-ic_eku_Fc&usqp=CAU" height="20" width = "20"></a> [Python Cheatsheets](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/python-cheat-sheets.pdf) | 2025-02 | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
 | <img src="https://play-lh.googleusercontent.com/qj0msQAflr6nejVs1QRYzcIIhKIHcgwz7qQaWrjl05EPiYieBOPWXod6D7WZ7EA0tg" height="20" width = "20"></a>  [Python Cheatsheet for Data Science](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/python-cheatsheet%20-%20DS.pdf) | 2025-02 | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
-
+<!--
 # Coding Homeworks
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
 | Repository Link | Completion Date | Type | Description |
@@ -88,4 +88,4 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [DX602 Week2](https://github.com/bu-cds-dx602-2025-spring/dx602-homework-02-tzucker02) | 2025-02 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0xXUB2KHx43VCueINopyQf-1fb4JBOVjSw&s" height = "25" width = "25"></a> |  |
 | [DX602 Week3](https://github.com/bu-cds-dx602-2025-spring/dx602-homework-03-tzucker02) | 2025-02 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0xXUB2KHx43VCueINopyQf-1fb4JBOVjSw&s" height = "25" width = "25"></a> |  |
 | [DX602 Week4](https://github.com/bu-cds-dx602-2025-spring/dx602-homework-04-tzucker02) | 2025-02 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0xXUB2KHx43VCueINopyQf-1fb4JBOVjSw&s" height = "25" width = "25"></a> |  |
-
+-->
