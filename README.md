@@ -87,4 +87,5 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [DX602 Week1](https://github.com/bu-cds-dx602-2025-spring/dx602-homework-01-tzucker02) | 2025-02 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0xXUB2KHx43VCueINopyQf-1fb4JBOVjSw&s" height = "25" width = "25"></a> |  |
 | [DX602 Week2](https://github.com/bu-cds-dx602-2025-spring/dx602-homework-02-tzucker02) | 2025-02 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0xXUB2KHx43VCueINopyQf-1fb4JBOVjSw&s" height = "25" width = "25"></a> |  |
 | [DX602 Week3](https://github.com/bu-cds-dx602-2025-spring/dx602-homework-03-tzucker02) | 2025-02 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0xXUB2KHx43VCueINopyQf-1fb4JBOVjSw&s" height = "25" width = "25"></a> |  |
+| [DX602 Week4](https://github.com/bu-cds-dx602-2025-spring/dx602-homework-04-tzucker02) | 2025-02 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0xXUB2KHx43VCueINopyQf-1fb4JBOVjSw&s" height = "25" width = "25"></a> |  |
 
