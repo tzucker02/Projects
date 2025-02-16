@@ -19,7 +19,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 |---|------------------|---|---|
 | <img src="https://downloadly.ir/wp-content/uploads/2021/03/EndNote-.png" height = "20" width = "35"></a>  [EndNote Technical SOP Document](https://github.com/tzucker02/Technical-Writing/blob/main/Publication%20selection%20quantification%20method.pdf) | 2023 - 01   | Word, EndNote, Excel | Wrote technical document describing the various aspects, problems and solutions when using EndNotento to create references in a grant application| 
 | <img src="https://cdn.iconscout.com/icon/free/png-512/free-technical-icon-download-in-svg-png-gif-file-formats--support-seo-icons-pack-web-453357.png?f=webp&w=512" width = "25" height = "25"> </a>[Computer course proposal](https://github.com/tzucker02/Technical-Writing/blob/main/Computer%20Course%20Proposal.pdf) | 2022-05 | Word |
-|   | 2023 - 02   | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
+| <img src="https://cdn.iconscout.com/icon/free/png-256/free-powerpoint-logo-icon-download-in-svg-png-gif-file-formats--office-365-pack-logos-icons-1174816.png" width="20" height="20"></a>  | 2023 - 02   | Slidedog, Powerpoint, Dropbox, Drive, A/V miscellaneous | Set up, implemented and brought to fruition presentation to NCI site visit committee|
 
 # Full text of OMDS Readings
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
