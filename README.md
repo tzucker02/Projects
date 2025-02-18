@@ -61,7 +61,9 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [Renovations listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/Renovations_17175092557320/Main) | 2024-06 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Cost of renovations dashboard |
 
 # Python Cheatsheets
-[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
+So what is a cheatsheet? This question needs answering, considering the language used. A cheatsheet is NOT, necessarily, a way to cheat. It is by definition, "a piece of paper bearing written notes intended to aid one's memory..." The PDFs listed here are meant to do just that - help you out as a quick reference. If you use them in any other way, that's on you. Many of these use the term "cheatsheet" as part of their title.  For instance, the first one is actually called the "Beginners Python Cheatsheet."
+
 | File Link | Upload Date | Type | Description |
 |---|---|---|---|
 | <img src="https://www.shareicon.net/data/2016/01/29/269382_zip_256x256.png" height="20" width="20"></a> [All Cheatsheets in zip file](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/cheatsheets.zip) |2025-02 | <img src="https://www.shareicon.net/data/2016/01/29/269382_zip_256x256.png" width = "20" height = "20" ></a>  | All cheatsheets in zip file organized in subdirectories by topic|
