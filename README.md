@@ -79,7 +79,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 | File Link | Date Added | Type | Description |
 |---|---|---|---|
-| [Hugging Face](https://huggingface.co/datasets) | 2025-02 |  |  |
+| <a href="https://huggingface.co/datasets" target="_blank">Hugging Face</a> | 2025-02 |  |  |
 | [Kaggle](https://www.kaggle.com) | 2025-02 |  |  |
 | [Data.gov](https://www.data.gov) | 2025-02 |  |  |
 | [Academic Torrents](https://academictorrents.com/) | 2025-02 |  |  |
