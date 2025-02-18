@@ -11,6 +11,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 - [ Tableau](#tableau)
 - [ Python Cheatsheets](#python-cheatsheets)
 - [ Python Links](#python-links)
+- [ Dataset Sources](#dataset-sources)
 <!-- - [ Coding Homeworks](#coding-homeworks) -->
 
 
@@ -64,9 +65,28 @@ Here, I have tried to list my different projects, the files I have tried to make
 # Python Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 (libraries and more)
+| File Link | Date Added | Type | Description | Person who Provided link |
+|---|---|---|---|----|
+| [Python libraries link page](https://open-data-analytics.medium.com/top-10-growing-data-visualization-libraries-in-python-in-2023-813d1aefedcc) | 2025-02 | Web page | A list of python visualization libraries |  |
+| [Fitting a line to Data - intro to Linear Regression](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/v/fitting-a-line-to-data?) | 2025-02 | Web Page | Khan Academy |  Dan Nicolau |
+| [Curve Fitting with Matplotlib](https://www.mathworks.com/videos/what-is-curve-fitting-fitting-models-to-data-made-easy-with-matlab-1712740390493.html?) | 2025-02 |  |  Mathworks |  Dan Nicolau |
+| [Comparing Models to fit Data](https://www.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression/v/comparing-models-to-fit-data?) | 2025-02 |  | Khan Academy |  Dan Nicolau |
+<!-- | []() | 2025-02 |  |  |
+| []() | 2025-02 |  |  |
+| []() | 2025-02 |  |  | -->
+
+# Dataset sources
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 | File Link | Date Added | Type | Description |
 |---|---|---|---|
-| [Python libraries link page](https://open-data-analytics.medium.com/top-10-growing-data-visualization-libraries-in-python-in-2023-813d1aefedcc) | 2025-02 | Web page | A list of python visualization libraries |
+| [Hugging Face](https://huggingface.co/datasets) | 2025-02 |  |  |
+| [Kaggle](https://www.kaggle.com) | 2025-02 |  |  |
+| [Data.gov](https://www.data.gov) | 2025-02 |  |  |
+| [Academic Torrents](https://academictorrents.com/) | 2025-02 |  |  |
+| [AWS Data Repository](https://registry.opendata.aws/) | 2025-02 |  |  |
+| [FBI data home](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) | 2025-02 |  |  |
+| [Google dataset search](https://datasetsearch.research.google.com/) | 2025-02 |  |  | 
+
 
 # Python Cheatsheets
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
