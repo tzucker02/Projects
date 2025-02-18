@@ -10,6 +10,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 - [ Power BI](#powerbi)
 - [ Tableau](#tableau)
 - [ Python Cheatsheets](#python-cheatsheets)
+- [ Python Links](#python-links)
 <!-- - [ Coding Homeworks](#coding-homeworks) -->
 
 
@@ -59,6 +60,13 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [Larchmont Temple Brotherhood Breakfasts dashboard ver a](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/LTBBreakfasts/Dashboard2) | 2024-11 |<img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Dashboard of membership |
 | [AirBnB searchable listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/AirBnBlistingNYC/AirBnBlistingsandMap) | 2024-05 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Dashboard displaying NYC searchable lists |
 | [Renovations listing](https://public.tableau.com/app/profile/thomaszuckerscharff/viz/Renovations_17175092557320/Main) | 2024-06 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489897.png" alt="Alt Text" width="15" height="15">Tableau Desktop, Tableau Public</a> | Cost of renovations dashboard |
+
+# Python Links
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
+(libraries and more)
+| File Link | Date Added | Type | Description |
+|---|---|---|---|
+| [Python libraries link page](https://open-data-analytics.medium.com/top-10-growing-data-visualization-libraries-in-python-in-2023-813d1aefedcc) | 2025-02 | Web page | A list of python visualization libraries |
 
 # Python Cheatsheets
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
