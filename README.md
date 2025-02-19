@@ -5,10 +5,12 @@ Here, I have tried to list my different projects, the files I have tried to make
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
 
 ## Table of Contents
+Portfolio
 - [ Toms Technical Writing](#toms-technical-writing)
-- [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Power BI](#powerbi)
 - [ Tableau](#tableau)
+Resources
+- [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Python Cheatsheets](#python-cheatsheets)
 - [ Python Links](#python-links)
 - [ Dataset Sources](#dataset-sources)
