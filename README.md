@@ -86,7 +86,15 @@ Here, I have tried to list my different projects, the files I have tried to make
 | [AWS Data Repository](https://registry.opendata.aws/) | 2025-02 |  |  |
 | [FBI data home](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) | 2025-02 |  |  |
 | [Google dataset search](https://datasetsearch.research.google.com/) | 2025-02 |  |  | 
-
+| [Pew Research](https://www.pewresearch.org/datasets/) | 2025-02 |  |  |
+| [Twiiter development platform](https://developer.x.com/en/docs/tutorials/consuming-streaming-data) | 2025-02 |  |  |
+| [World bank](https://data.worldbank.org/) | 2025-02 |  |  |
+| [Data World](https://data.world/) | 2025-02 |  |  |
+| [GitHub Listing](https://github.com/awesomedata/awesome-public-datasets) | 2025-02 |  |  |
+| [WHO](https://www.who.int/data/gho) | 2025-02 |  |  |
+| [538 polling dasta](https://projects.fivethirtyeight.com/polls/) | 2025-02 |  |  |
+| [UCI Machine Learning Repository](https://archive.ics.uci.edu/) | 2025-02 |  |  |
+| [USA National Phenology Network dasta](https://data.usanpn.org/observations/locations) | 2025-02 |  |  |
 
 # Python Cheatsheets
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
