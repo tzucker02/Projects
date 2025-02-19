@@ -109,7 +109,12 @@ Resources
 | [Marimo](https://marimo.io/) | 2025-02-19 | Web Page | Coding tool like Jupyter | Usha Priya Krishnasamy |
 | [Article about Marimo](https://towardsdatascience.com/publish-interactive-data-visualizations-for-free-with-python-and-marimo/) | 2025-02 | Web Page |  | Usha Priya Krishnasamy |
 | [Gini Impurity vs Entropy](https://www.youtube.com/watch?v=5aIFgrrTqOw) | 2025-02-19 | YouTube |  | Pierce Myers |
+| [8 generative AI certs](https://www.eweek.com/artificial-intelligence/generative-ai-certification/) | 2025-02 | Web Page |  | Rain Lin |
 <!--
+| []() | 2025-02 | Web Page |  | <name> |
+| []() | 2025-02 | Web Page |  | <name> |
+| []() | 2025-02 | Web Page |  | <name> |
+| []() | 2025-02 | Web Page |  | <name> |
 | []() | 2025-02 | Web Page |  | <name> |
 | []() | 2025-02 | Web Page |  | <name> |
 -->
