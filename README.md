@@ -14,6 +14,7 @@ Resources
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Python Cheatsheets](#python-cheatsheets)
 - [ Python Links](#python-links)
+- [ Other Links](#other-links)
 - [ Dataset Sources](#dataset-sources)
 <!-- - [ Coding Homeworks](#coding-homeworks) -->
 
