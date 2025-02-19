@@ -99,6 +99,20 @@ Resources
 | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) | 2025-02 |  |  |
 | [USA National Phenology Network dasta](https://data.usanpn.org/observations/locations) | 2025-02 |  |  |
 
+# Other Links
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
+| File Link | Date Added | Type | Description | Person who Provided link |
+|---|---|---|---|----|
+| [AWS Uses Ancient Logic to tackle AI Hallucinations](https://www.pymnts.com/amazon/2025/aws-turns-to-ancient-logic-to-tackle-modern-ais-hallucinations/) | 2025-02-19 | Web Page | AWS and AI Hallucinations | Usha Priya Krishnasamy |
+<!--
+| []() | 2025-02 | Web Page | <name> |
+| []() | 2025-02 | Web Page | <name> |
+| []() | 2025-02 | Web Page | <name> |
+| []() | 2025-02 | Web Page | <name> |
+| []() | 2025-02 | Web Page | <name> |
+| []() | 2025-02 | Web Page | <name> |
+-->
+
 # Python Cheatsheets
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 So what is a cheat sheet? This question needs answering, considering the language used. A cheat sheet is NOT necessarily a way to cheat. It is by definition, "a piece of paper bearing written notes intended to aid one's memory..." The PDFs listed here are meant to do just that - help you out as a quick reference. If you use them in any other way, that's on you. Many of these use the term "cheatsheet" as part of their title.  For instance, the first one is actually titled the "Beginner's Python Cheat Sheet."
