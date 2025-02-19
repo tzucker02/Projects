@@ -9,6 +9,7 @@ Portfolio
 - [ Toms Technical Writing](#toms-technical-writing)
 - [ Power BI](#powerbi)
 - [ Tableau](#tableau)
+
 Resources
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Python Cheatsheets](#python-cheatsheets)
