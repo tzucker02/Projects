@@ -104,8 +104,8 @@ Resources
 | File Link | Date Added | Type | Description | Person who Provided link |
 |---|---|---|---|----|
 | [AWS Uses Ancient Logic to tackle AI Hallucinations](https://www.pymnts.com/amazon/2025/aws-turns-to-ancient-logic-to-tackle-modern-ais-hallucinations/) | 2025-02-19 | Web Page | AWS and AI Hallucinations | Usha Priya Krishnasamy |
+| [Why Writing by hand is better](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/) | 2025-02-19 | Web Page | Rafael Widjajahakim |
 <!--
-| []() | 2025-02 | Web Page | <name> |
 | []() | 2025-02 | Web Page | <name> |
 | []() | 2025-02 | Web Page | <name> |
 | []() | 2025-02 | Web Page | <name> |
