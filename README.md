@@ -111,8 +111,8 @@ Resources
 | [Gini Impurity vs Entropy](https://www.youtube.com/watch?v=5aIFgrrTqOw) | 2025-02-19 | YouTube |  | Pierce Myers |
 | [8 generative AI certs](https://www.eweek.com/artificial-intelligence/generative-ai-certification/) | 2025-02 | Web Page |  | Rain Lin |
 | [French AI](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) | 2025-02-19 | Web Page |  | Kris Mehra |
+| [Healthcare in Transition article](https://www.medicaleconomics.com/view/health-care-in-transition-trends-shaping-2025?ekey=RUtJRDo3RjM5NEEwNC1ENzU0LTRGOEQtQUIyOS1CNzc1NURCNjk3MkQ%3D&utm_campaign=emailname&utm_medium=email&_hsenc=p2ANqtz-_hNUr-zLaPmSxE-e6kqk2KcMSzLlSShy2ykxIpBZjlcTNNCuB0W6TCpbR7pkArZfiyudmIUJYJykYFThR7f2pnmtVR2g&_hsmi=344041632&utm_source=hs) | 2025-02 | Web Page |  | Michael Cockrell |
 <!--
-| []() | 2025-02 | Web Page |  | <name> |
 | []() | 2025-02 | Web Page |  | <name> |
 | []() | 2025-02 | Web Page |  | <name> |
 | []() | 2025-02 | Web Page |  | <name> |
