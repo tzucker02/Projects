@@ -102,6 +102,7 @@ Resources
 
 # Other Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
+(this includes many links posted by students on the BU Yellowdig platform)</br>
 | File Link | Date Added | Type | Description | Person who Provided link |
 |---|---|---|---|----|
 | [AWS Uses Ancient Logic to tackle AI Hallucinations](https://www.pymnts.com/amazon/2025/aws-turns-to-ancient-logic-to-tackle-modern-ais-hallucinations/) | 2025-02-19 | Web Page | AWS and AI Hallucinations | Usha Priya Krishnasamy |
