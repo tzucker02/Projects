@@ -100,6 +100,7 @@ Resources
 | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) | 2025-02 |  |  |
 | [USA National Phenology Network data](https://data.usanpn.org/observations/locations) | 2025-02 |  |  |
 | [The greenstreets dataset on data.gov](https://catalog.data.gov/dataset/greenstreets-bb8be) | 2025-02-21 |  | There is also a Greenstrets website  |
+| [Harvard Forest LiDAR dataset](https://harvardforest1.fas.harvard.edu/exist/apps/datasets/showData.html?id=HF413) | 2025-02-21 |  |  |
 
 # Other Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
