@@ -96,7 +96,7 @@ Resources
 | [Data World](https://data.world/) | 2025-02 |  |  |
 | [GitHub Listing](https://github.com/awesomedata/awesome-public-datasets) | 2025-02 |  |  |
 | [WHO](https://www.who.int/data/gho) | 2025-02 |  |  |
-| [538 polling dasta](https://projects.fivethirtyeight.com/polls/) | 2025-02 |  |  |
+| [538 polling data](https://projects.fivethirtyeight.com/polls/) | 2025-02 |  |  |
 | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) | 2025-02 |  |  |
 | [USA National Phenology Network data](https://data.usanpn.org/observations/locations) | 2025-02 |  |  |
 
