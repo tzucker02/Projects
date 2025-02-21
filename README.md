@@ -71,13 +71,15 @@ Resources
 (libraries and more)
 | File Link | Date Added | Type | Description | Person who Provided link |
 |---|---|---|---|----|
-| [Python libraries link page](https://open-data-analytics.medium.com/top-10-growing-data-visualization-libraries-in-python-in-2023-813d1aefedcc) | 2025-02 | Web page | A list of python visualization libraries |  |
-| [Fitting a line to Data - intro to Linear Regression](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/v/fitting-a-line-to-data?) | 2025-02 | Web Page | Khan Academy |  Dan Nicolau |
-| [Curve Fitting with Matplotlib](https://www.mathworks.com/videos/what-is-curve-fitting-fitting-models-to-data-made-easy-with-matlab-1712740390493.html?) | 2025-02 |  |  Mathworks |  Dan Nicolau |
-| [Comparing Models to fit Data](https://www.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression/v/comparing-models-to-fit-data?) | 2025-02 |  | Khan Academy |  Dan Nicolau |
-<!-- | []() | 2025-02 |  |  |
-| []() | 2025-02 |  |  |
-| []() | 2025-02 |  |  | -->
+| [Python libraries link page](https://open-data-analytics.medium.com/top-10-growing-data-visualization-libraries-in-python-in-2023-813d1aefedcc) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | A list of python visualization libraries |  |
+| [Fitting a line to Data - intro to Linear Regression](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/v/fitting-a-line-to-data?) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | Khan Academy |  Dan Nicolau |
+| [Curve Fitting with Matplotlib](https://www.mathworks.com/videos/what-is-curve-fitting-fitting-models-to-data-made-easy-with-matlab-1712740390493.html?) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  Mathworks |  Dan Nicolau |
+| [Comparing Models to fit Data](https://www.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression/v/comparing-models-to-fit-data?) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | Khan Academy |  Dan Nicolau |
+<!-- 
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | 
+-->
 
 # Dataset sources
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
@@ -111,7 +113,7 @@ Resources
 | [Why Writing by hand is better](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Rafael Widjajahakim |
 | [Marimo](https://marimo.io/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | Coding tool like Jupyter | Usha Priya Krishnasamy |
 | [Article about Marimo](https://towardsdatascience.com/publish-interactive-data-visualizations-for-free-with-python-and-marimo/) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Usha Priya Krishnasamy |
-| [Gini Impurity vs Entropy](https://www.youtube.com/watch?v=5aIFgrrTqOw) | 2025-02-19 | YouTube |  | Pierce Myers |
+| [Gini Impurity vs Entropy](https://www.youtube.com/watch?v=5aIFgrrTqOw) | 2025-02-19 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="20" width="20"></a> |  | Pierce Myers |
 | [8 generative AI certs](https://www.eweek.com/artificial-intelligence/generative-ai-certification/) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Rain Lin |
 | [French AI](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
 | [Healthcare in Transition article](https://www.medicaleconomics.com/view/health-care-in-transition-trends-shaping-2025?ekey=RUtJRDo3RjM5NEEwNC1ENzU0LTRGOEQtQUIyOS1CNzc1NURCNjk3MkQ%3D&utm_campaign=emailname&utm_medium=email&_hsenc=p2ANqtz-_hNUr-zLaPmSxE-e6kqk2KcMSzLlSShy2ykxIpBZjlcTNNCuB0W6TCpbR7pkArZfiyudmIUJYJykYFThR7f2pnmtVR2g&_hsmi=344041632&utm_source=hs) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Michael Cockrell |
