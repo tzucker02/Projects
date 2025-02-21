@@ -12,6 +12,7 @@ Portfolio
 
 Resources
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
+- [ Other Readings](#other-readings)
 - [ Python Cheatsheets](#python-cheatsheets)
 - [ Python Links](#python-links)
 - [ Other Links](#other-links)
