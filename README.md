@@ -107,19 +107,19 @@ Resources
 (this includes many links posted by students on the BU Yellowdig platform)</br>
 | File Link | Date Added | Type | Description | Person who Provided link |
 |---|---|---|---|----|
-| [AWS Uses Ancient Logic to tackle AI Hallucinations](https://www.pymnts.com/amazon/2025/aws-turns-to-ancient-logic-to-tackle-modern-ais-hallucinations/) | 2025-02-19 | Web Page | AWS and AI Hallucinations | Usha Priya Krishnasamy |
-| [Why Writing by hand is better](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/) | 2025-02-19 | Web Page |  | Rafael Widjajahakim |
-| [Marimo](https://marimo.io/) | 2025-02-19 | Web Page | Coding tool like Jupyter | Usha Priya Krishnasamy |
-| [Article about Marimo](https://towardsdatascience.com/publish-interactive-data-visualizations-for-free-with-python-and-marimo/) | 2025-02 | Web Page |  | Usha Priya Krishnasamy |
+| [AWS Uses Ancient Logic to tackle AI Hallucinations](https://www.pymnts.com/amazon/2025/aws-turns-to-ancient-logic-to-tackle-modern-ais-hallucinations/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | AWS and AI Hallucinations | Usha Priya Krishnasamy |
+| [Why Writing by hand is better](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Rafael Widjajahakim |
+| [Marimo](https://marimo.io/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | Coding tool like Jupyter | Usha Priya Krishnasamy |
+| [Article about Marimo](https://towardsdatascience.com/publish-interactive-data-visualizations-for-free-with-python-and-marimo/) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Usha Priya Krishnasamy |
 | [Gini Impurity vs Entropy](https://www.youtube.com/watch?v=5aIFgrrTqOw) | 2025-02-19 | YouTube |  | Pierce Myers |
-| [8 generative AI certs](https://www.eweek.com/artificial-intelligence/generative-ai-certification/) | 2025-02 | Web Page |  | Rain Lin |
-| [French AI](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) | 2025-02-19 | Web Page |  | Kris Mehra |
-| [Healthcare in Transition article](https://www.medicaleconomics.com/view/health-care-in-transition-trends-shaping-2025?ekey=RUtJRDo3RjM5NEEwNC1ENzU0LTRGOEQtQUIyOS1CNzc1NURCNjk3MkQ%3D&utm_campaign=emailname&utm_medium=email&_hsenc=p2ANqtz-_hNUr-zLaPmSxE-e6kqk2KcMSzLlSShy2ykxIpBZjlcTNNCuB0W6TCpbR7pkArZfiyudmIUJYJykYFThR7f2pnmtVR2g&_hsmi=344041632&utm_source=hs) | 2025-02-19 | Web Page |  | Michael Cockrell |
-| [Daisy the AI granny](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/) | 2025-02-19 | Web Page |  | Kris Mehra |
+| [8 generative AI certs](https://www.eweek.com/artificial-intelligence/generative-ai-certification/) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Rain Lin |
+| [French AI](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
+| [Healthcare in Transition article](https://www.medicaleconomics.com/view/health-care-in-transition-trends-shaping-2025?ekey=RUtJRDo3RjM5NEEwNC1ENzU0LTRGOEQtQUIyOS1CNzc1NURCNjk3MkQ%3D&utm_campaign=emailname&utm_medium=email&_hsenc=p2ANqtz-_hNUr-zLaPmSxE-e6kqk2KcMSzLlSShy2ykxIpBZjlcTNNCuB0W6TCpbR7pkArZfiyudmIUJYJykYFThR7f2pnmtVR2g&_hsmi=344041632&utm_source=hs) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Michael Cockrell |
+| [Daisy the AI granny](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
 <!--
-| []() | 2025-02 | Web Page |  | <name> |
-| []() | 2025-02 | Web Page |  | <name> |
-| []() | 2025-02 | Web Page |  | <name> |
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 -->
 
 # Python Cheatsheets
