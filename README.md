@@ -85,24 +85,24 @@ Resources
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 | File Link | Date Added | Type | Description |
 |---|---|---|---|
-| <a href="https://huggingface.co/datasets" target="_blank">Hugging Face</a> | 2025-02 |  |  |
-| [Kaggle](https://www.kaggle.com) | 2025-02 |  |  |
-| [Data.gov](https://www.data.gov) | 2025-02 |  |  |
-| [Academic Torrents](https://academictorrents.com/) | 2025-02 |  |  |
-| [AWS Data Repository](https://registry.opendata.aws/) | 2025-02 |  |  |
-| [FBI data home](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) | 2025-02 |  |  |
-| [Google dataset search](https://datasetsearch.research.google.com/) | 2025-02 |  |  | 
-| [Pew Research](https://www.pewresearch.org/datasets/) | 2025-02 |  |  |
-| [Twiiter development platform](https://developer.x.com/en/docs/tutorials/consuming-streaming-data) | 2025-02 |  |  |
-| [World bank](https://data.worldbank.org/) | 2025-02 |  |  |
-| [Data World](https://data.world/) | 2025-02 |  |  |
-| [GitHub Listing](https://github.com/awesomedata/awesome-public-datasets) | 2025-02 |  |  |
-| [WHO](https://www.who.int/data/gho) | 2025-02 |  |  |
-| [538 polling data](https://projects.fivethirtyeight.com/polls/) | 2025-02 |  |  |
-| [UCI Machine Learning Repository](https://archive.ics.uci.edu/) | 2025-02 |  |  |
-| [USA National Phenology Network data](https://data.usanpn.org/observations/locations) | 2025-02 |  |  |
-| [The greenstreets dataset on data.gov](https://catalog.data.gov/dataset/greenstreets-bb8be) | 2025-02-21 |  | There is also a Greenstrets website  |
-| [Harvard Forest LiDAR dataset](https://harvardforest1.fas.harvard.edu/exist/apps/datasets/showData.html?id=HF413) | 2025-02-21 |  |  |
+| <a href="https://huggingface.co/datasets" target="_blank">Hugging Face</a> | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [Kaggle](https://www.kaggle.com) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [Data.gov](https://www.data.gov) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [Academic Torrents](https://academictorrents.com/) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [AWS Data Repository](https://registry.opendata.aws/) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [FBI data home](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [Google dataset search](https://datasetsearch.research.google.com/) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  | 
+| [Pew Research](https://www.pewresearch.org/datasets/) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [Twiiter development platform](https://developer.x.com/en/docs/tutorials/consuming-streaming-data) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [World bank](https://data.worldbank.org/) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [Data World](https://data.world/) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [GitHub Listing](https://github.com/awesomedata/awesome-public-datasets) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [WHO](https://www.who.int/data/gho) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [538 polling data](https://projects.fivethirtyeight.com/polls/) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [UCI Machine Learning Repository](https://archive.ics.uci.edu/) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [USA National Phenology Network data](https://data.usanpn.org/observations/locations) | 2025-02 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
+| [The greenstreets dataset on data.gov](https://catalog.data.gov/dataset/greenstreets-bb8be) | 2025-02-21 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  | There is also a Greenstrets website  |
+| [Harvard Forest LiDAR dataset](https://harvardforest1.fas.harvard.edu/exist/apps/datasets/showData.html?id=HF413) | 2025-02-21 |  <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a>  |  |
 
 # Other Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
@@ -113,7 +113,7 @@ Resources
 | [Why Writing by hand is better](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Rafael Widjajahakim |
 | [Marimo](https://marimo.io/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | Coding tool like Jupyter | Usha Priya Krishnasamy |
 | [Article about Marimo](https://towardsdatascience.com/publish-interactive-data-visualizations-for-free-with-python-and-marimo/) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Usha Priya Krishnasamy |
-| [Gini Impurity vs Entropy](https://www.youtube.com/watch?v=5aIFgrrTqOw) | 2025-02-19 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="20" width="20"></a> |  | Pierce Myers |
+| [Gini Impurity vs Entropy](https://www.youtube.com/watch?v=5aIFgrrTqOw) | 2025-02-19 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  | Pierce Myers |
 | [8 generative AI certs](https://www.eweek.com/artificial-intelligence/generative-ai-certification/) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Rain Lin |
 | [French AI](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
 | [Healthcare in Transition article](https://www.medicaleconomics.com/view/health-care-in-transition-trends-shaping-2025?ekey=RUtJRDo3RjM5NEEwNC1ENzU0LTRGOEQtQUIyOS1CNzc1NURCNjk3MkQ%3D&utm_campaign=emailname&utm_medium=email&_hsenc=p2ANqtz-_hNUr-zLaPmSxE-e6kqk2KcMSzLlSShy2ykxIpBZjlcTNNCuB0W6TCpbR7pkArZfiyudmIUJYJykYFThR7f2pnmtVR2g&_hsmi=344041632&utm_source=hs) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Michael Cockrell |
