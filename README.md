@@ -98,7 +98,7 @@ Resources
 | [WHO](https://www.who.int/data/gho) | 2025-02 |  |  |
 | [538 polling dasta](https://projects.fivethirtyeight.com/polls/) | 2025-02 |  |  |
 | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) | 2025-02 |  |  |
-| [USA National Phenology Network dasta](https://data.usanpn.org/observations/locations) | 2025-02 |  |  |
+| [USA National Phenology Network data](https://data.usanpn.org/observations/locations) | 2025-02 |  |  |
 
 # Other Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
