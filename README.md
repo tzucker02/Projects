@@ -13,6 +13,7 @@ Portfolio
 Resources
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Other Readings](#other-readings)
+- [ AI resources](#ai-resources)
 - [ Python Cheatsheets](#python-cheatsheets)
 - [ Python Links](#python-links)
 - [ Other Links](#other-links)
@@ -52,11 +53,17 @@ Resources
 | [Annotating Plots from MatPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotate%20plots%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
 | [Support Vector Machines](https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |   |
 
+# AI Resources
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
+| Link | Date Added | Type | Description |
+|---|---|---|---|
+| [Claude](https://claude.ai) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | This website is very similar to ChatGPT 4.  |
+
 #  PowerBI
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
 | Dashboard Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
-| []() | 2025-02 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> |  |
+|  | 2025-02 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
 
 # Tableau
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
