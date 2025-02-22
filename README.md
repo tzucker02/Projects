@@ -58,6 +58,7 @@ Resources
 | Link | Date Added | Type | Description |
 |---|---|---|---|
 | [Claude](https://claude.ai) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | This website is very similar to ChatGPT 4.  |
+| [ChatGPT](https://openai.com/) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
 
 #  PowerBI
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
