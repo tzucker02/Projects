@@ -143,7 +143,11 @@ Resources
 | [Daisy the AI granny](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
 | [Matplotlib tutorial](https://www.youtube.com/watch?v=DAQNHzOcO5A) | 2025-02-22 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  | Maryia Zaitsava |
 | [Playing the game to beat AI](https://gandalf.lakera.ai/baseline) | 2025-02-22 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |  Rafael Widjajahakim |
+| [Is Data Science Dead?](https://medium.com/low-code-for-advanced-data-science/is-data-science-dead-a5d4421b4b1f) | 2025-02-22 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Thomas Zucker-Scharff |
 <!--
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 -->
 
