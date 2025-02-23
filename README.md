@@ -151,6 +151,7 @@ Resources
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 -->
 
+<!--
 # Python Cheatsheets
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 So what is a cheat sheet? This question needs answering, considering the language used. A cheat sheet is NOT necessarily a way to cheat. It is by definition, "a piece of paper bearing written notes intended to aid one's memory..." The PDFs listed here are meant to do just that - help you out as a quick reference. If you use them in any other way, that's on you. Many of these use the term "cheatsheet" as part of their title.  For instance, the first one is actually titled the "Beginner's Python Cheat Sheet."
@@ -176,7 +177,7 @@ So what is a cheat sheet? This question needs answering, considering the languag
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLs3ES1D7U3B9y7iulvA2hbtqPTIf4E-243g&s" height="20" width="20"></a> [Intermediate Matplotlib handout](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/handout-intermediate.pdf) | 2025-02 | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20"></a>  |  |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLs3ES1D7U3B9y7iulvA2hbtqPTIf4E-243g&s" height="20" width="20"></a>[Matplotlib Handout Tips](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/Cheatsheets/handout-tips.pdf) | 2025-02 | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
 
-<!--
+
 # Coding Homeworks
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
 | Repository Link | Completion Date | Type | Description |
