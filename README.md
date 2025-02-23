@@ -99,7 +99,7 @@ Resources
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |  |
 -->
 
-# Caostine Methods
+# Capstone Methods
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 | File Link | Date Added | Type | Description | Person who Provided link |
 |---|---|---|---|----|
