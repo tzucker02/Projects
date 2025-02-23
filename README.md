@@ -13,7 +13,7 @@ Portfolio
 Resources
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Other Readings](#other-readings)
-- [ AI resources](#ai-resources)
+- [ AI resources & Links](#ai-resources-and-links)
 - [ Python Cheatsheets](#python-cheatsheets)
 - [ Python Links](#python-links)
 - [ Other Links](#other-links)
@@ -54,12 +54,17 @@ Resources
 | [Annotating Plots from MatPlotLib](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/other%20readings/Annotate%20plots%20%E2%80%94%20Matplotlib%203.10.0%20documentation%20-%20matplotlib.org.pdf) | 2025-02 | <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d63756ea-34b3-41be-81c6-03e9de695d90/d1sz4ad-f167cb71-14d5-4189-bf72-79baa4b9f522.jpg/v1/fill/w_256,h_256,q_75,strp/adobe_acrobat_pdf_icon_by_reeses09_d1sz4ad-fullview.jpg" width = "20" height = "20" ></a>  |  |
 | [Support Vector Machines](https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |   |
 
-# AI Resources
+# AI Resources and Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
-| Link | Date Added | Type | Description |
-|---|---|---|---|
-| [Claude](https://claude.ai) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | This website is very similar to ChatGPT 4.  |
-| [ChatGPT](https://openai.com/) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+| Link | Date Added | Type | Description | Posted By |
+|---|---|---|---|----|
+| [Claude](https://claude.ai) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | This website is very similar to ChatGPT 4.  |  |
+| [ChatGPT](https://openai.com/) | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |  |
+| [AWS Uses Ancient Logic to tackle AI Hallucinations](https://www.pymnts.com/amazon/2025/aws-turns-to-ancient-logic-to-tackle-modern-ais-hallucinations/) | 2025-02-19 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | AWS and AI Hallucinations | Usha Priya Krishnasamy |
+| [Playing the game to beat AI](https://gandalf.lakera.ai/baseline) | 2025-02-22 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |  Rafael Widjajahakim |
+| [8 generative AI certs](https://www.eweek.com/artificial-intelligence/generative-ai-certification/) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Rain Lin |
+| [French AI](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
+| [Daisy the AI granny](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
 
 #  PowerBI
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
@@ -132,17 +137,12 @@ Resources
 (this includes many links posted by students on the BU Yellowdig platform)</br>
 | File Link | Date Added | Type | Description | Person who Provided link |
 |---|---|---|---|----|
-| [AWS Uses Ancient Logic to tackle AI Hallucinations](https://www.pymnts.com/amazon/2025/aws-turns-to-ancient-logic-to-tackle-modern-ais-hallucinations/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | AWS and AI Hallucinations | Usha Priya Krishnasamy |
 | [Why Writing by hand is better](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Rafael Widjajahakim |
 | [Marimo](https://marimo.io/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | Coding tool like Jupyter | Usha Priya Krishnasamy |
 | [Article about Marimo](https://towardsdatascience.com/publish-interactive-data-visualizations-for-free-with-python-and-marimo/) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Usha Priya Krishnasamy |
 | [Gini Impurity vs Entropy](https://www.youtube.com/watch?v=5aIFgrrTqOw) | 2025-02-19 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  | Pierce Myers |
-| [8 generative AI certs](https://www.eweek.com/artificial-intelligence/generative-ai-certification/) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Rain Lin |
-| [French AI](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
 | [Healthcare in Transition article](https://www.medicaleconomics.com/view/health-care-in-transition-trends-shaping-2025?ekey=RUtJRDo3RjM5NEEwNC1ENzU0LTRGOEQtQUIyOS1CNzc1NURCNjk3MkQ%3D&utm_campaign=emailname&utm_medium=email&_hsenc=p2ANqtz-_hNUr-zLaPmSxE-e6kqk2KcMSzLlSShy2ykxIpBZjlcTNNCuB0W6TCpbR7pkArZfiyudmIUJYJykYFThR7f2pnmtVR2g&_hsmi=344041632&utm_source=hs) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Michael Cockrell |
-| [Daisy the AI granny](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
 | [Matplotlib tutorial](https://www.youtube.com/watch?v=DAQNHzOcO5A) | 2025-02-22 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  | Maryia Zaitsava |
-| [Playing the game to beat AI](https://gandalf.lakera.ai/baseline) | 2025-02-22 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |  Rafael Widjajahakim |
 | [Is Data Science Dead?](https://medium.com/low-code-for-advanced-data-science/is-data-science-dead-a5d4421b4b1f) | 2025-02-22 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Thomas Zucker-Scharff |
 <!--
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
