@@ -1,13 +1,11 @@
 <a name="Top"></a> 
-# <img src="https://cdn.iconscout.com/icon/free/png-256/free-notebook-icon-download-in-svg-png-gif-file-formats--diary-note-pencil-shopping-and-retail-pack-e-commerce-icons-910315.png" width = "30" height = "50">Welcome to my portfolio of projects and listing of resources.  </a>
-Here, I have tried to list all the python related cheatsheets I have found in any way useful.
+# <img src="https://cdn.iconscout.com/icon/free/png-256/free-notebook-icon-download-in-svg-png-gif-file-formats--diary-note-pencil-shopping-and-retail-pack-e-commerce-icons-910315.png" width = "30" height = "50">Welcome to my Python Cheatsheets page.</a>
 
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
 
 # Python Cheatsheets
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 So what is a cheat sheet? This question needs answering, considering the language used. A cheat sheet is NOT necessarily a way to cheat. It is by definition, "a piece of paper bearing written notes intended to aid one's memory..." The PDFs listed here are meant to do just that - help you out as a quick reference. If you use them in any other way, that's on you. Many of these use the term "cheatsheet" as part of their title.  For instance, the first one is actually titled the "Beginner's Python Cheat Sheet."
-
 | File Link | Upload Date | Type | Description |
 |---|---|---|---|
 | <img src="https://www.shareicon.net/data/2016/01/29/269382_zip_256x256.png" height="20" width="20"></a> [All Cheatsheets in zip file](https://github.com/tzucker02/Data-science-readings/blob/main/Boston%20University/Python/cheatsheets.zip) |2025-02 | <img src="https://www.shareicon.net/data/2016/01/29/269382_zip_256x256.png" width = "20" height = "20" ></a>  | All cheatsheets in zip file organized in subdirectories by topic|
