@@ -18,6 +18,7 @@ Resources
 - [ Python Links](#python-links)
 - [ Other Links](#other-links)
 - [ Dataset Sources](#dataset-sources)
+- [ Data Science Blogs](#data-science-blogs)
 <!-- - [ Coding Homeworks](#coding-homeworks) -->
 
 
@@ -91,6 +92,18 @@ Resources
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | 
 -->
 
+# Data Science Blogs
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
+| Blog Link | Date Added | Description | Person who Provided link |
+|---|---|---|---|
+| [Data Science Central](https://www.datasciencecentral.com/) | 2025-02 | part of TechTarget | Arun Mathew |
+| [Data Science Collective](https://www.smartdatacollective.com/) | 2025-02 |  | Arun Mathew |
+| [Big Data](https://whatsthebigdata.com/) | 2025-02 |  | Arun Mathew | 
+| [Kaggle Blog](https://medium.com/kaggle-blog) | 2025-02 |  | Arun Mathew | 
+| [Inside AI News](https://insideainews.com/) | 2025-02 |  | Arun Mathew | 
+<!--
+| []() | 2025-02 |  | | 
+-->
 # Dataset sources
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 | File Link | Date Added | Type | Description |
@@ -128,8 +141,8 @@ Resources
 | [French AI](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
 | [Healthcare in Transition article](https://www.medicaleconomics.com/view/health-care-in-transition-trends-shaping-2025?ekey=RUtJRDo3RjM5NEEwNC1ENzU0LTRGOEQtQUIyOS1CNzc1NURCNjk3MkQ%3D&utm_campaign=emailname&utm_medium=email&_hsenc=p2ANqtz-_hNUr-zLaPmSxE-e6kqk2KcMSzLlSShy2ykxIpBZjlcTNNCuB0W6TCpbR7pkArZfiyudmIUJYJykYFThR7f2pnmtVR2g&_hsmi=344041632&utm_source=hs) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Michael Cockrell |
 | [Daisy the AI granny](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/) | 2025-02-19 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | Kris Mehra |
+| [Matplotlib tutorial](https://www.youtube.com/watch?v=DAQNHzOcO5A) | 2025-02 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a> |  | Maryia Zaitsava |
 <!--
-| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | <name> |
 -->
