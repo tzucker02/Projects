@@ -91,9 +91,13 @@ Resources
 | [Fitting a line to Data - intro to Linear Regression](https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-linear-functions-modeling/v/fitting-a-line-to-data?) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | Khan Academy |  Dan Nicolau |
 | [Curve Fitting with Matplotlib](https://www.mathworks.com/videos/what-is-curve-fitting-fitting-models-to-data-made-easy-with-matlab-1712740390493.html?) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  Mathworks |  Dan Nicolau |
 | [Comparing Models to fit Data](https://www.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression/v/comparing-models-to-fit-data?) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | Khan Academy |  Dan Nicolau | 
-| [K-means Clustering](https://realpython.com/k-means-clustering-python/) | 2025-02-22 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | A simple implementation of clustering in python |
+| [K-means Clustering](https://realpython.com/k-means-clustering-python/) | 2025-02-22 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | data decision method | Thomas Zucker-Schrff |
+| [Anomaly Detection](https://www.ibm.com/think/topics/anomaly-detection) | 2025-02-22 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | data decision method | Thomas Zucker-Schrff |
+| [Categorization definition](https://dagster.io/glossary/data-categorization) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | data decision method | Thomas Zucker-Schrff |
 <!--
-| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | 
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | 
+| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | 
 | []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  | 
 -->
 
