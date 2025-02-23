@@ -14,7 +14,7 @@ Resources
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Other Readings](#other-readings)
 - [ AI resources & Links](#ai-resources-and-links)
-- [ Python Cheatsheets](#python-cheatsheets)
+- [ Python Cheatsheets](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md)
 - [ Python Links](#python-links)
 - [ Other Links](#other-links)
 - [ Dataset Sources](#dataset-sources)
