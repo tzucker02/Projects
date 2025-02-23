@@ -1,10 +1,10 @@
 <a name="Top"></a> 
 # <img src="https://cdn.iconscout.com/icon/free/png-256/free-notebook-icon-download-in-svg-png-gif-file-formats--diary-note-pencil-shopping-and-retail-pack-e-commerce-icons-910315.png" width = "30" height = "50">Welcome to my Python Cheatsheets page.</a>
+I have tried to assemble links to all the Python cheatsheets I have found in any way useful.  Feel free to use and abuse!
 
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
 
 # Python Cheatsheets
-[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 So what is a cheat sheet? This question needs answering, considering the language used. A cheat sheet is NOT necessarily a way to cheat. It is by definition, "a piece of paper bearing written notes intended to aid one's memory..." The PDFs listed here are meant to do just that - help you out as a quick reference. If you use them in any other way, that's on you. Many of these use the term "cheatsheet" as part of their title.  For instance, the first one is actually titled the "Beginner's Python Cheat Sheet."
 | File Link | Upload Date | Type | Description |
 |---|---|---|---|
