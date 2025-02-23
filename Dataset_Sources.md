@@ -1,4 +1,4 @@
-# <img src="https://cdn.iconscout.com/icon/free/png-256/free-notebook-icon-download-in-svg-png-gif-file-formats--diary-note-pencil-shopping-and-retail-pack-e-commerce-icons-910315.png" width = "30" height = "50">Welcome to my portfolio of projects and listing of resources.  </a>
+# <img src="https://cdn.iconscout.com/icon/free/png-256/free-notebook-icon-download-in-svg-png-gif-file-formats--diary-note-pencil-shopping-and-retail-pack-e-commerce-icons-910315.png" width = "30" height = "50">Welcome to my list of dataset sources.</a>
 Here, I have tried to list different sources where datasets can be procured (mostly for free). If you have a source that is not listed here, feel free to contact me and I will add it.
 
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
