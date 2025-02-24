@@ -1,5 +1,5 @@
 <a name="Top"></a> 
-# <img src="https://cdn.iconscout.com/icon/free/png-256/free-notebook-icon-download-in-svg-png-gif-file-formats--diary-note-pencil-shopping-and-retail-pack-e-commerce-icons-910315.png" width = "40" height = "50">Course  resources for Online Masters in Data Science degree at BU.  </a>
+# <img src="https://cdn-icons-png.freepik.com/256/12332/12332794.png?semt=ais_hybrid" width = "40" height = "40">Course  resources for Online Masters in Data Science degree at BU.  </a>
 Here, I have tried to list all the content from each course by each week. If I have left anything out, please let me know.
 
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
