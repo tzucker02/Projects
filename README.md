@@ -103,13 +103,13 @@ Resources
 # Course Links
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 (libraries and more)
-| File Link | Date Added | Type | Description | Person who Provided link |
+| File Link | Date Added | Type | Description |
 |---|---|---|---|----|
-| [Numpy versus Scipy](https://www.youtube.com/watch?v=l3s-_8uTBVA) | 2025-02-24 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  |  | Course Material |
-| [Travis Oliphant: NumPy, SciPy, Anaconda, Python & Scientific Programming - Lex Fridman Podcast #224](https://www.youtube.com/watch?v=gFEE3w7F0ww&t=3089s) | 2025-02-24 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  |  | Course Material |
-| [Python Data Science Handbook Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | Introduction to Numpy | Course Material |
-| [Numpy examples](https://numpy.org/doc/stable/user/basics.creation.html#converting-python-sequences-to-numpy-arrays) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
-| [Numpy documentation for creating array fromexisting data](https://numpy.org/doc/stable/reference/routines.array-creation.html#from-existing-data) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  | Course Material |
+| [Numpy versus Scipy](https://www.youtube.com/watch?v=l3s-_8uTBVA) | 2025-02-24 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  |  |
+| [Travis Oliphant: NumPy, SciPy, Anaconda, Python & Scientific Programming - Lex Fridman Podcast #224](https://www.youtube.com/watch?v=gFEE3w7F0ww&t=3089s) | 2025-02-24 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  |  | 
+| [Python Data Science Handbook Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | Introduction to Numpy | 
+| [Numpy examples](https://numpy.org/doc/stable/user/basics.creation.html#converting-python-sequences-to-numpy-arrays) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| [Numpy documentation for creating array fromexisting data](https://numpy.org/doc/stable/reference/routines.array-creation.html#from-existing-data) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 
 
 # Capstone Methods
