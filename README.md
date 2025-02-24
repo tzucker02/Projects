@@ -95,9 +95,9 @@ Resources
 | [Comparing Models to fit Data](https://www.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression/v/comparing-models-to-fit-data?) | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> | Khan Academy |  Dan Nicolau | 
 | [Numpy versus Scipy](https://www.youtube.com/watch?v=l3s-_8uTBVA) | 2025-02-24 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  |  | Course Material |
 | [Travis Oliphant: NumPy, SciPy, Anaconda, Python & Scientific Programming - Lex Fridman Podcast #224](https://www.youtube.com/watch?v=gFEE3w7F0ww&t=3089s) | 2025-02-24 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  |  | Course Material |
+| [Python Data Science Handbook Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | Introduction to Numpy | Course Material |
 <!--
-| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |  |
-| []() | 2025-02 | <img src="https://cdn-icons-png.freepik.com/256/11754/11754357.png?semt=ais_hybrid" height="20" width="25"></a> |  |  |
+| []() | 2025-02 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |  |
 -->
 
 # Capstone Methods
