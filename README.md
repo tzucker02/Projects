@@ -1,5 +1,5 @@
 <a name="Top"></a> 
-# <img src="https://cdn.iconscout.com/icon/free/png-256/free-notebook-icon-download-in-svg-png-gif-file-formats--diary-note-pencil-shopping-and-retail-pack-e-commerce-icons-910315.png" width = "40" height = "50">Welcome to my portfolio of projects and listing of resources.  </a>
+# <img src="https://png.pngtree.com/png-clipart/20190629/original/pngtree-vector-portfolio-icon-png-image_4072879.jpg" width = "40" height = "40">Welcome to my portfolio of projects and listing of resources.  </a>
 Here, I have tried to list my different projects, the files I have tried to make available, and various miscellaneous items.
 
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
