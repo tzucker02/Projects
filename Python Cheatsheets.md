@@ -1,5 +1,5 @@
 <a name="Top"></a> 
-# <img src="https://cdn.iconscout.com/icon/free/png-256/free-notebook-icon-download-in-svg-png-gif-file-formats--diary-note-pencil-shopping-and-retail-pack-e-commerce-icons-910315.png" width = "30" height = "50">Welcome to my Python Cheatsheets page.</a>
+# <img src="https://cheatify.vercel.app/images/favicon.png" width = "40" height = "50">Welcome to my Python Cheatsheets page.</a>
 I have tried to assemble links to all the Python cheatsheets I have found in any way useful.  Feel free to use and abuse!
 
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
