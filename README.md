@@ -13,7 +13,7 @@ Portfolio
 Resources
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Other Readings](#other-readings)
-- [ ***Go to the Course Resources Page***](https://github.com/tzucker02/Projects/blob/main/Course%20Content.md)
+- [ ***Go to the Course Resources Page***](https://github.com/tzucker02/course_material/blob/main/README.md)
 - [ AI resources & Links](#ai-resources-and-links)
 - [ ***Go to the Python Cheatsheets Page***](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md)
 - [ Python Links](#python-links)
