@@ -13,12 +13,12 @@ Portfolio
 Resources
 - [ Full text of OMDS readings](#full-text-of-OMDS-readings)
 - [ Other Readings](#other-readings)
-- [ __*Go to the Course Resources Page*__](https://github.com/tzucker02/Projects/blob/main/Course%20Content.md)
+- [ ***Go to the Course Resources Page***](https://github.com/tzucker02/Projects/blob/main/Course%20Content.md)
 - [ AI resources & Links](#ai-resources-and-links)
-- [ __*Go to the Python Cheatsheets Page*__](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md)
+- [ ***Go to the Python Cheatsheets Page***](https://github.com/tzucker02/Projects/blob/main/Python%20Cheatsheets.md)
 - [ Python Links](#python-links)
 - [ Other Links](#other-links)
-- [ __*Go to the Dataset Sources Page*__](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md)
+- [ ***Go to the Dataset Sources Page***](https://github.com/tzucker02/Projects/blob/main/Dataset_Sources.md)
 - [ Data Science Blogs](#data-science-blogs)
 <!-- - [ Coding Homeworks](#coding-homeworks) -->
 
