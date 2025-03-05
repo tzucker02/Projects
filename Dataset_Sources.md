@@ -30,19 +30,19 @@ Here, I have tried to list different sources where datasets can be procured (mos
 | [Harvard Forest LiDAR dataset](https://harvardforest1.fas.harvard.edu/exist/apps/datasets/showData.html?id=HF413) | 2025-02-21 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
 
 # Datasets I am no longer using
-| File Link | Date Added | Type | Description |
-|---|---|---|---|
-| [GreenStreets Dataset](https://catalog.data.gov/dataset/greenstreets-bb8be) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | A climate dataset by greenstreets.org |
-| [Greenstreets Homepage](https://data.cityofnewyork.us/dataset/Greenstreets/mk9u-qu7i/about_data) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| [Greenstreets data dictionary](https://docs.google.com/spreadsheets/d/1HiHluhaqGWPC4QPy9q5iXkXJCGZrm3nAggJzVeKuP0E/edit?gid=0#gid=0) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| [Lidar dataset from Harvard Forest](https://harvardforest1.fas.harvard.edu/exist/apps/datasets/showData.html?id=HF413) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| [General Climate data](https://catalog.data.gov/dataset/new-york-city-climate-projections-temperature-and-precipitation) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| [Visual crossing weather datasets - limited to 1k rows/day](https://www.visualcrossing.com/weather/weather-data-services#) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+| From/Website | File Link | Date Added | Type | Description |
+|---|---|---|---|---|
+| Greenstreets | [GreenStreets Dataset](https://catalog.data.gov/dataset/greenstreets-bb8be) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | A climate dataset by greenstreets.org |
+|  | [Greenstreets Homepage](https://data.cityofnewyork.us/dataset/Greenstreets/mk9u-qu7i/about_data) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+|  | [Greenstreets data dictionary](https://docs.google.com/spreadsheets/d/1HiHluhaqGWPC4QPy9q5iXkXJCGZrm3nAggJzVeKuP0E/edit?gid=0#gid=0) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+| Harvard Forest | [Lidar dataset from Harvard Forest](https://harvardforest1.fas.harvard.edu/exist/apps/datasets/showData.html?id=HF413) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+| Climate Data | [General Climate data](https://catalog.data.gov/dataset/new-york-city-climate-projections-temperature-and-precipitation) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+| Visualcrossingsa.com | [Visual crossing weather datasets - limited to 1k rows/day](https://www.visualcrossing.com/weather/weather-data-services#) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
 <!--
-| []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
 -->
