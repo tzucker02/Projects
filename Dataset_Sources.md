@@ -1,10 +1,10 @@
-# <img src="https://cdn-icons-png.flaticon.com/256/1449/1449314.png" width = "30" height = "30">Welcome to my list of dataset sources.</a>
+# <img src="https://cdn-icons-png.flaticon.com/256/1449/1449314.png" width = "30" height = "30">Welcome to my list of dataset sources and previously used datasets.</a>
 Here, I have tried to list different sources where datasets can be procured (mostly for free). If you have a source that is not listed here, feel free to contact me and I will add it.
 
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
 
 - [Dataset Sources](#dataset-sources)
-- [Datasets I no longer Use](#datasets-I-am-no-longer-using)
+- [Datasets I no longer Use - with some explanation](#datasets-I-am-no-longer-using)
 
 # Dataset sources
 | File Link | Date Added | Type | Description |
