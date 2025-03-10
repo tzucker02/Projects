@@ -13,7 +13,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 
 # Course Links for DX602
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
-<a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a></br>
+<a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a></br><a href="#602week7">Week 7</a>
 | Course/Week | File Link | Date Added | Type | 
 |---|---|---|---|
 | <a name="602Week6">Course DX602 - Week 6</a> | [Numpy versus Scipy](https://www.youtube.com/watch?v=l3s-_8uTBVA) | 2025-02-24 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  | 
@@ -42,8 +42,8 @@ Here, I have tried to list all the content from each course by each week. If I h
 | | [Universal functions (ufunc) basics](https://numpy.org/doc/stable/user/basics.ufuncs.html) | 2025-02-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | [numpy.frompyfunc](https://numpy.org/doc/stable/reference/generated/numpy.frompyfunc.html) | 2025-02-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | [Numba: A High Performance Python Compiler. ](https://numba.readthedocs.io/en/stable/reference/numpysupported.html) | 2025-02-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| <a name="602Week7">Course DX602 - Week 7</a> | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 <!--
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
