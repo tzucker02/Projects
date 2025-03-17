@@ -31,7 +31,7 @@ Here, I have tried to list different sources where datasets can be procured (mos
 | [UC Irvine Repository](https://archive.ics.uci.edu/) | 2025-03-16 |  <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
 
 # Datasets I am no longer using
-| From/Website | File Link | Date Added | Type | Description | Reason |
+| From/Website | File Link | Date Added | Type | Description | Reason/Rating |
 |---|---|---|---|---|----|
 | Greenstreets | [GreenStreets Dataset](https://catalog.data.gov/dataset/greenstreets-bb8be) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | A climate dataset by greenstreets.org | This is a perfectly good dataset, I just changed direction |
 |  | [Greenstreets Homepage](https://data.cityofnewyork.us/dataset/Greenstreets/mk9u-qu7i/about_data) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |  |
