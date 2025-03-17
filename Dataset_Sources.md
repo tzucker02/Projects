@@ -31,19 +31,19 @@ Here, I have tried to list different sources where datasets can be procured (mos
 | [UC Irvine Repository](https://archive.ics.uci.edu/) | 2025-03-16 |  <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
 
 # Datasets I am no longer using
-| From/Website | File Link | Date Added | Type | Description |
-|---|---|---|---|---|
-| Greenstreets | [GreenStreets Dataset](https://catalog.data.gov/dataset/greenstreets-bb8be) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | A climate dataset by greenstreets.org |
-|  | [Greenstreets Homepage](https://data.cityofnewyork.us/dataset/Greenstreets/mk9u-qu7i/about_data) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-|  | [Greenstreets data dictionary](https://docs.google.com/spreadsheets/d/1HiHluhaqGWPC4QPy9q5iXkXJCGZrm3nAggJzVeKuP0E/edit?gid=0#gid=0) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| Harvard Forest | [Lidar dataset from Harvard Forest](https://harvardforest1.fas.harvard.edu/exist/apps/datasets/showData.html?id=HF413) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| Climate Data | [General Climate data](https://catalog.data.gov/dataset/new-york-city-climate-projections-temperature-and-precipitation) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| Visualcrossingsa.com | [Visual crossing weather datasets - limited to 1k rows/day](https://www.visualcrossing.com/weather/weather-data-services#) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-| Helathcare from data.gov | [Helathcare produres and insurance coverage](https://data.healthcare.gov/dataset/kq37-29bw) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-|  | [Zip code dataset](https://data.healthcare.gov/dataset/yaaf-rjhy) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | This dataset has breakouts by age according to zipcode |
-| Flixster | <a href="https://academictorrents.com/details/4960373ea6dec89153639b0975ea92f9e3d3c914" target="_blank">Flixster dataset</a> | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+| From/Website | File Link | Date Added | Type | Description | Reason |
+|---|---|---|---|---|----|
+| Greenstreets | [GreenStreets Dataset](https://catalog.data.gov/dataset/greenstreets-bb8be) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | A climate dataset by greenstreets.org | This is a perfectly good dataset, I just changed direction |
+|  | [Greenstreets Homepage](https://data.cityofnewyork.us/dataset/Greenstreets/mk9u-qu7i/about_data) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |  |
+|  | [Greenstreets data dictionary](https://docs.google.com/spreadsheets/d/1HiHluhaqGWPC4QPy9q5iXkXJCGZrm3nAggJzVeKuP0E/edit?gid=0#gid=0) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |  |
+| Harvard Forest | [Lidar dataset from Harvard Forest](https://harvardforest1.fas.harvard.edu/exist/apps/datasets/showData.html?id=HF413) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  | I never really evaluated this one |
+| Climate Data | [General Climate data](https://catalog.data.gov/dataset/new-york-city-climate-projections-temperature-and-precipitation) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |  good |
+| Visualcrossingsa.com | [Visual crossing weather datasets - limited to 1k rows/day](https://www.visualcrossing.com/weather/weather-data-services#) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  | paid or limited - the data is good but you need to build it and are limited to 1k rows per 24hour period |
+| Healthcare from data.gov | [Helathcare procedures and insurance coverage](https://data.healthcare.gov/dataset/kq37-29bw) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  | excellent - change of direction |
+|  | [Zip code dataset](https://data.healthcare.gov/dataset/yaaf-rjhy) | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | This dataset has breakouts by age according to zipcode | same as above |
+| Flixster | <a href="https://academictorrents.com/details/4960373ea6dec89153639b0975ea92f9e3d3c914" target="_blank">Flixster dataset</a> | 2025-03-04 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  | unknown |
 <!--
-|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
-|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |
+|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |  |
+|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |  |
+|  | []() | 2025-03- | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |  |
 -->
