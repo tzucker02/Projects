@@ -13,7 +13,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 
 # Course Links for DX602
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
-<a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a>, <a href="#602week7">Week 7</a></br>
+<a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a>, <a href="#602week7">Week 7</a></br>, <ahref="#602week8">week 8</a>
 | Course/Week | File Link | Date Added | Type | 
 |---|---|---|---|
 | <a name="602Week6">Week 6</a> | [Numpy versus Scipy](https://www.youtube.com/watch?v=l3s-_8uTBVA) | 2025-02-24 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  | 
@@ -50,12 +50,12 @@ Here, I have tried to list all the content from each course by each week. If I h
 | | [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) | 2025-03-10 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | [Indexing on ndarrays](https://numpy.org/doc/stable/user/basics.indexing.html) | 2025-03-10 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | [NumPy linear algebra subpackage](https://numpy.org/doc/stable/reference/routines.linalg.html) | 2025-03-10 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-<!--
 |  <a name="602Week8">Week 8</a>  | [Pandas Package overview](https://pandas.pydata.org/docs/getting_started/overview.html) | 2025-03-16 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | [Intro to Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | 2025-03-16 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | 2025-03-16 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | [Introducing Pandas Objects](https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html) | 2025-03-16 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | [Numpy Versus Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk) | 2025-03-16 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+<!--
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 -->
