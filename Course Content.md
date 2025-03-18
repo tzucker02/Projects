@@ -81,8 +81,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 -->
 
 # Course Links for DX699
-<a href="#699week1">Week 1</a>, <a href="#699week2">Week 2</a>,<a href="#699week3">Week 3</a>,<a href="#699week4">Week 4</a>,<a href="#699week5">Week 5</a>,<a href="#699week6">Week 6</a>,<a href="#699week7">Week 7</a>,<a href="#699week8">Week 8</a>,<a href="#699week9">Week 9</a>,
-[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br><a href="#699week1">Week 1</a>, <a href="#699week2">Week 2</a>,<a href="#699week3">Week 3</a>,<a href="#699week4">Week 4</a>,<a href="#699week5">Week 5</a>,<a href="#699week6">Week 6</a>,<a href="#699week7">Week 7</a>,<a href="#699week8">Week 8</a>,<a href="#699week9">Week 9</a></br>
 | Course/Week | File Link | Date Added | Type | Description |
 |---|---|---|---|---|
 | <a name="699Week6">Week 6</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx699) |
