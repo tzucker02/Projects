@@ -16,6 +16,11 @@ Here, I have tried to list all the content from each course by each week. If I h
 <a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a>, <a href="#602week7">Week 7</a>, <a href="#602week8">week 8</a></br>
 | Course/Week | File Link | Date Added | Type | 
 |----------|---|---|---|
+| <a name="602Week1 ">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx602) |
+| <a name="602Week2 ">Week 2</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx602) |
+| <a name="602Week3 ">Week 3</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx602) |
+| <a name="602Week4 ">Week 4</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx602) |
+| <a name="602Week5 ">Week 5</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx602) |
 | <a name="602Week6 ">Week 6</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx602) |
 |  | [Numpy versus Scipy](https://www.youtube.com/watch?v=l3s-_8uTBVA) | 2025-02-24 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  | 
 | | [Travis Oliphant: NumPy, SciPy, Anaconda, Python & Scientific Programming - Lex Fridman Podcast #224](https://www.youtube.com/watch?v=gFEE3w7F0ww&t=3089s) | 2025-02-24 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  | 
