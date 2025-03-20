@@ -86,11 +86,10 @@ Here, I have tried to list all the content from each course by each week. If I h
 |---|---|---|---|---|
 | <a name="699Week6">Week 6</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx699) |
 | <a name="699Week8">Week 8</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx699) |
-| | [Introduction to Neural Networks with link to full book PDF](https://www.dkriesel.com/en/science/neural_networks) | 2025-03-18 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| 8.1 | [Introduction to Neural Networks with link to full book PDF](https://www.dkriesel.com/en/science/neural_networks) | 2025-03-18 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| 8.1 | [A gentle introduction to Neural Networks: Part 1](https://medium.com/data-science/a-gentle-introduction-to-neural-networks-series-part-1-2b90b87795bc) | 2025-03-20 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |  |
+| 8.1 | [Machine Learning: Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/#1-building-blocks-neurons) | 2025-03-20 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 <!--
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
