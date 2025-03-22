@@ -70,6 +70,9 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 8.3 | [Handling Missing Data](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html) | 2025-03-18 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 8.3  | [Copy-On-Write](https://pandas.pydata.org/docs/user_guide/copy_on_write.html) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 8.3 | [How do I read and write tabular data](https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html) | 2025-03-18 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| <a name="602Week9">Week 9</a> | []() |  |  |  |
+| 9.1 | [Group by in Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| 9.1 | [Aggregation and Grouoping](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 <!--
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
@@ -95,9 +98,6 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 8.1 | [Introduction to Neural Networks with link to full book PDF](https://www.dkriesel.com/en/science/neural_networks) | 2025-03-18 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | 8.1 | [A gentle introduction to Neural Networks: Part 1](https://medium.com/data-science/a-gentle-introduction-to-neural-networks-series-part-1-2b90b87795bc) | 2025-03-20 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> |  |  |
 | 8.1 | [Machine Learning: Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/#1-building-blocks-neurons) | 2025-03-20 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
-| <a name="699Week9">Week 9</a> | []() |  |  |  |
-| 9.1 | [Group by in Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
-| 9.1 | [Aggregation and Grouoping](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 <!--
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
