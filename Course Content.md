@@ -74,8 +74,8 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 9.1 | [Group by in Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | 9.1 | [Aggregation and Grouoping](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | 9.1 | [Palmer Penguins data access](https://allisonhorst.github.io/palmerpenguins/) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 9.1 | [Original Source of Palmer Penguins database](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 <!--
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
