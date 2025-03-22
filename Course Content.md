@@ -70,7 +70,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 8.3 | [Handling Missing Data](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html) | 2025-03-18 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 8.3  | [Copy-On-Write](https://pandas.pydata.org/docs/user_guide/copy_on_write.html) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 8.3 | [How do I read and write tabular data](https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html) | 2025-03-18 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| <a name="602Week9">Week 9</a> | []() |  |  |  |
+| <a name="602Week9">Week 9</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx602) |
 | 9.1 | [Group by in Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | 9.1 | [Aggregation and Grouoping](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 <!--
