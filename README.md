@@ -75,13 +75,15 @@ Resources
 
 #  PowerBI
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
-| Dashboard Link | Completion Date | Tools | Project Description |
+| Dashboard Link | Post Date | Tools | Project Description |
 |---|---|---|---|
-| [Montefiore Einstein Comprehensice Cancer Center](https://app.powerbi.com/reportEmbed?reportId=064b3acb-d32a-4169-836a-e1fd99ca5db1&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
-| [AirBnB Searchable Listing](https://app.powerbi.com/reportEmbed?reportId=1415a692-3be2-4aa7-aeeb-b3b612a409bd&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
-| [Center for Jewish History](https://app.powerbi.com/reportEmbed?reportId=6fbd29b4-9e0c-489f-b08a-25eec20f3601&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
-| [Larchmont Temple Brotherhood Membership](https://app.powerbi.com/reportEmbed?reportId=ca3156f9-e38b-4cbe-9ed9-3b379f6da73e&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
+| [Montefiore Einstein Comprehensice Cancer Center](https://app.powerbi.com/reportEmbed?reportId=064b3acb-d32a-4169-836a-e1fd99ca5db1&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | Dashboard for administrative use during CCSG renewal |
+| [AirBnB Searchable Listing](https://app.powerbi.com/reportEmbed?reportId=1415a692-3be2-4aa7-aeeb-b3b612a409bd&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | AirBnB dataset for NYC|
+| [Center for Jewish History](https://app.powerbi.com/reportEmbed?reportId=6fbd29b4-9e0c-489f-b08a-25eec20f3601&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | Visitir statistics for CJH |
+| [Larchmont Temple Brotherhood Membership](https://app.powerbi.com/reportEmbed?reportId=ca3156f9-e38b-4cbe-9ed9-3b379f6da73e&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | LTB Membership |
+<!--
 | [Reucurring Charges](https://app.powerbi.com/reportEmbed?reportId=15f713b7-906a-49fc-98d5-8e68efd475ab&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
+-->
 
 
 
