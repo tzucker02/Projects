@@ -7,7 +7,9 @@ Here, I have tried to list my different projects, the files I have tried to make
 ## Table of Contents
 Portfolio
 - [ Toms Technical Writing](#toms-technical-writing)
+<!--
 - [ Power BI](#powerbi)
+-->
 - [ Tableau](#tableau)
 
 Resources
@@ -72,11 +74,13 @@ Resources
 | [5 Trends in AI and Data Science in 2025](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2025/) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | MITSloan Management Review | Michael Cockrell |
 -->
 
+<!--
 #  PowerBI
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
 | Dashboard Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
 |  | 2025-02 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
+-->
 
 # Tableau
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
