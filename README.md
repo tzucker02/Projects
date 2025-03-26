@@ -7,9 +7,7 @@ Here, I have tried to list my different projects, the files I have tried to make
 ## Table of Contents
 Portfolio
 - [ Toms Technical Writing](#toms-technical-writing)
-<!--
 - [ Power BI](#powerbi)
--->
 - [ Tableau](#tableau)
 
 Resources
@@ -74,13 +72,18 @@ Resources
 | [5 Trends in AI and Data Science in 2025](https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2025/) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a> | MITSloan Management Review | Michael Cockrell |
 -->
 
-<!--
+
 #  PowerBI
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
 | Dashboard Link | Completion Date | Tools | Project Description |
 |---|---|---|---|
-|  | 2025-02 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
--->
+| [Montefiore Einstein Comprehensice Cancer Center](https://app.powerbi.com/reportEmbed?reportId=064b3acb-d32a-4169-836a-e1fd99ca5db1&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
+| [AirBnB Searchable Listing](https://app.powerbi.com/reportEmbed?reportId=1415a692-3be2-4aa7-aeeb-b3b612a409bd&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
+| [Center for Jewish History](https://app.powerbi.com/reportEmbed?reportId=6fbd29b4-9e0c-489f-b08a-25eec20f3601&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
+| [Larchmont Temple Brotherhood Membership](https://app.powerbi.com/reportEmbed?reportId=ca3156f9-e38b-4cbe-9ed9-3b379f6da73e&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
+| [Reucurring Charges](https://app.powerbi.com/reportEmbed?reportId=15f713b7-906a-49fc-98d5-8e68efd475ab&autoAuth=true&ctid=16af0bc4-c4cc-4a48-b51a-f54a88819a9e) | 2025-03 | <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" width = "20" height = "20"></a> | |
+
+
 
 # Tableau
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
