@@ -32,9 +32,10 @@ Resources
 | Website Link | Type of Site | Description of Site |
 |-----|------|------|
 | [Software](https://software.zuckerscharff.com/) | Listing of software by category |  |
-| []() | |
-| []() | |
-| []() | |
+| [Family webpage](https://zuckerscharff.com/) | | |
+| [Resume Site](https://resume.thomaszuckerscharff.com/?page_id=20) | | |
+| [Tutorials](https://tutorials.zuckerscharff.com/) | | |
+| | | |
 -->
 
 # Tom's Technical Writing
