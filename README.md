@@ -9,6 +9,7 @@ Portfolio
 - [ Toms Technical Writing](#toms-technical-writing)
 - [ Power BI](#powerbi)
 - [ Tableau](#tableau)
+<!-- - [ Web sites](#websites) -->
 
 Resources
 <!--
@@ -25,6 +26,16 @@ Resources
 <!-- - [ Data Science Blogs](#data-science-blogs) -->
 <!-- - [ Coding Homeworks](#coding-homeworks) -->
 
+<!--
+# Tom's Websites
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
+| Website Link | Type of Site | Description of Site |
+|-----|------|------|
+| [Software](https://software.zuckerscharff.com/) | Listing of software by category |  |
+| []() | |
+| []() | |
+| []() | |
+-->
 
 # Tom's Technical Writing
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)
